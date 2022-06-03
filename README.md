@@ -19,10 +19,18 @@ sudah dipilih saat anda memilih jurusan anda untuk bisa lulus (memenangkan perma
 6. Apabila stok makanan di inventory habis, pemain dapat membeli makanan di supermarket dengan uang
 7. Pemain hanya bisa membeli kebutuhan saja di supermarket
 8. Pemain dapat pergi ke kafe untuk membeli kopi untuk meningkatkan status tidur dan main
+   
    9.Pemain harus mendapatkan 85% absensi kelas
+   
    10.Pemain dapat belajar sesuai dengan jam kelas yang ada di menu mata kuliah untuk meningkatkan absensi atau belajar diluar jam kelas
+
+   
    11.Absensi tercatat apabila progress bar belajar ditekan hingga penuh pada jam kelas yang sudah ditentukan dan juga belajar di lokasi kampus
+   
    12.Pemain mendapatkan uang berdasarkan seberapa rajin pemain belajar
+   
    13.Pemain dapat melihat evaluasi permainan selama satu minggu setiap hari Minggu
+   
    14.Pemain dapat bermain hingga melalui siklus 14 hari (gambaran umum permainan tergambar jelas dalam satu minggu permainan). Apabila memenuhi kriteria, pemain akan mendapatkan ijazah (menang), dan apabila gagal, maka mahasiswa akan di "Drop Out"
+   
    15.Apabila pemain tidak melakukan aktivitas tertentu dalam jangka waktu tertentu (makan, tidur, dan belajar), maka pemain akan mendapatkan konsekuensi hukuman, berupa "Drop Out" ataupun "Kematian"
