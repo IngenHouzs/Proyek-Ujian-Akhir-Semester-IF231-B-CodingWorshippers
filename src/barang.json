@@ -1,0 +1,103 @@
+{
+  "supermarket": [
+    {
+      "nama": "Nasi Hainam",
+      "harga": 12000,
+      "stok": 1000,
+      "id": 1
+    },
+    {
+      "nama": "Bubur Ayam",
+      "harga": 10000,
+      "stok": 1000,
+      "id": 2
+    },
+    {
+      "nama": "Nasi Goreng",
+      "harga": 15000,
+      "stok": 1000,
+      "id": 3
+    },
+    {
+      "nama": "Mie Ayam",
+      "harga": 12000,
+      "stok": 1000,
+      "id": 4
+    },
+    {
+      "nama": "Ketoprak",
+      "harga": 10000,
+      "stok": 1000,
+      "id": 5
+    },
+    {
+      "nama": "Gado Gado",
+      "harga": 10000,
+      "stok": 1000,
+      "id": 6
+    },
+    {
+      "nama": "Pecel Lele",
+      "harga": 15000,
+      "stok": 1000,
+      "id": 7
+    },
+    {
+      "nama": "Tekwan",
+      "harga": 15000,
+      "stok": 1000,
+      "id": 8
+    },
+    {
+      "nama": "Bakso",
+      "harga": 10000,
+      "stok": 1000,
+      "id": 9
+    },
+    {
+      "nama": "Nasi Uduk",
+      "harga": 15000,
+      "stok": 1000,
+      "id": 10
+    },
+    {
+      "nama": "Sate Padang",
+      "harga": 20000,
+      "stok": 1000,
+      "id": 11
+    },
+    {
+      "nama": "Pizza",
+      "harga": 50000,
+      "stok": 100,
+      "id": 12
+    }
+  ],
+  "kafe": [
+    {
+      "nama": "Kopi Kapal Udara",
+      "harga": "15000",
+      "id": 1
+    },
+    {
+      "nama": "Kopi Paste",
+      "harga": "10000",
+      "id": 2
+    },
+    {
+      "nama": "Kopi Cinta",
+      "harga": "25000",
+      "id": 3
+    },
+    {
+      "nama": "Kopi Daun",
+      "harga": "30000",
+      "id": 4
+    },
+    {
+      "nama": "Kopi Hitam",
+      "harga": "5000",
+      "id": 5
+    }
+  ]
+}
